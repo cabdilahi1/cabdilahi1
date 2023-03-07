@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Full-Stack**
+- 🔭 I’m currently working on **Full-Stack Developer**
 
 - 🌱 I’m currently learning **react native typeScript nextjs**
 
