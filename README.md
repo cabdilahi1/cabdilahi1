@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack developer from somalia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
-![](https://komarev.com/ghpvc/?username=your-github-eng10&color=blueviolet&style=flat-square)
+
 - 🔭 I’m currently working on **Full-Stack Developer**
 
 - 🌱 I’m currently learning **react native typeScript nextjs**
