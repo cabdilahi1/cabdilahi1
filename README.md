@@ -1,34 +1,49 @@
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a software eng.</h2>
 
+###
 
-<h1 align="center">Hi 👋 there , I'm Abdullah</h1>
-<h3 align="center">A passionate Full-Stack developer from somalia</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
+###
 
-- 🔭 I’m currently working on **Full-Stack Developer**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🌱 I’m currently learning **react native typeScript nextjs**
+###
 
-- 💬 Ask me about **Hello i'm Abdullah i'm full-stack developer**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- 📫 How to reach me **cabilahi0099@gmail.com**
+###
 
-- ⚡ Fun fact **I'm Funny**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdilahi mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdilahi mohammed" height="30" width="40" /></a>
-</p>
+###
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng10&show_icons=true&locale=en&layout=compact" alt="eng10" /></p> -->
+<br clear="both">
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng10&show_icons=true&locale=en" alt="eng10" /></p> -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-      
-
-<!-- ![T](https://komarev.com/ghpvc/?username=your-github-egn10&color=blueviolet&style=flat-square) -->
-<br>
-<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=eng10&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng10&layout=compact" />
-
+###
