@@ -1,34 +1,50 @@
+```markdown
+<h1 align="center">Hi 👋, I'm Cabdilahi</h1>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from Somalia 🇸🇴</h3>
 
-
-<h1 align="center">Hi 👋 there , I'm Abdullah</h1>
-<h3 align="center">A passionate Full-Stack developer from somalia</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
-
-- 🔭 I’m currently working on **Full-Stack Developer**
-
-- 🌱 I’m currently learning **react native typeScript nextjs**
-
-- 💬 Ask me about **Hello i'm Abdullah i'm full-stack developer**
-
-- 📫 How to reach me **cabilahi0099@gmail.com**
-
-- ⚡ Fun fact **I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdilahi mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdilahi mohammed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" alt="Coding" width="400"/>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng10&show_icons=true&locale=en&layout=compact" alt="eng10" /></p> -->
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng10&show_icons=true&locale=en" alt="eng10" /></p> -->
+### 💡 About Me
 
-      
+- 🔭 I’m currently working as a **Full-Stack Developer** at [SuperTech Solutions](https://supertechss.com)
+- 🌱 I’m currently learning **React Native, TypeScript, and Next.js**
+- 💬 Ask me about **JavaScript, React, Node.js, and building SaaS platforms**
+- 📫 Reach me at: **cabilahi0099@gmail.com**
+- ⚡ Fun fact: **I love teaching web development and making coding fun!**
 
-<!-- ![T](https://komarev.com/ghpvc/?username=your-github-egn10&color=blueviolet&style=flat-square) -->
-<br>
-<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=eng10&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+---
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng10&layout=compact" />
+### 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://fb.com/abdilahi.mohammed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=eng10&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng10&layout=compact&theme=shades-of-purple" alt="Top Languages"/>
+</p>
+
+---
+
+### 🎯 Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eng10&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
+```
 
