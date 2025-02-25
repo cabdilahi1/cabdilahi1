@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Cabdilahi</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer from Somalia 🇸🇴</h3>
 
