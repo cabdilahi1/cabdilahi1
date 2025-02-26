@@ -20,15 +20,15 @@
 <a href="https://fb.com/abdilahi mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdilahi mohammed" height="30" width="40" /></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng10&show_icons=true&locale=en&layout=compact" alt="eng10" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabdilahi1&show_icons=true&locale=en&layout=compact" alt="cabdilahi1" /></p> 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng10&show_icons=true&locale=en" alt="eng10" /></p> -->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabdilahi1&show_icons=true&locale=en" alt="cabdilahi1" /></p> 
 
       
 
-<!-- ![T](https://komarev.com/ghpvc/?username=your-github-egn10&color=blueviolet&style=flat-square) -->
+ ![T](https://komarev.com/ghpvc/?username=your-github-cabdilahi1&color=blueviolet&style=flat-square) 
 <br>
-<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=eng10&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdilahi1&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng10&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdilahi1&layout=compact" />
 
