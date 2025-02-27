@@ -1,34 +1,42 @@
 
+<h1 align="center">Hi 👋, I'm Cabdilahi</h1>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<h1 align="center">Hi 👋 there , I'm Abdullah</h1>
-<h3 align="center">A passionate Full-Stack developer.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
-
-- 🔭 I’m currently working on **Full-Stack Developer**
-
-- 🌱 I’m currently learning **react native typeScript nextjs**
-
-- 💬 Ask me about **Hello i'm Abdullah i'm full-stack developer**
-
-- 📫 How to reach me **cabilahi0099@gmail.com**
-
-- ⚡ Fun fact **I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdilahi mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdilahi mohammed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" width="400" alt="Coding" />
 </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabdilahi1&show_icons=true&locale=en&layout=compact" alt="cabdilahi1" /></p> 
+### 🚀 About Me
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabdilahi1&show_icons=true&locale=en" alt="cabdilahi1" /></p> 
+- 🔭 I’m currently working as a **Full-Stack Developer**
+- 🌱 I’m currently learning **React Native, TypeScript, and Next.js**
+- 💬 Ask me about **Web Development, JavaScript, and Full-Stack Technologies**
+- 📫 Reach me at **cabilahi0099@gmail.com**
+- ⚡ Fun fact: **I'm always up for a challenge!**
 
-      
+### 🌍 Connect with Me
 
- ![T](https://komarev.com/ghpvc/?username=your-github-cabdilahi1&color=blueviolet&style=flat-square) 
-<br>
-<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdilahi1&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<p align="left">
+  <a href="https://facebook.com/abdilahi.mohammed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdilahi1&layout=compact" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdilahi1&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cabdilahi1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdilahi1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=cabdilahi1&color=blueviolet&style=flat-square)
+</p>
+
 
