@@ -20,6 +20,9 @@
   <a href="https://facebook.com/abdilahi.mohammed" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/cabdullah-mohamed-863689195/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -38,5 +41,4 @@
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=cabdilahi1&color=blueviolet&style=flat-square)
 </p>
-
 
