@@ -30,15 +30,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdilahi1&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cabdilahi1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdillahi&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cabdillahi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdilahi1&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdillahi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=cabdilahi1&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=cabdillahi&color=blueviolet&style=flat-square)
 </p>
 
