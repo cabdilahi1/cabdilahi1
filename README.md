@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=cabdillahi&color=blueviolet&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=cabdillahi&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
