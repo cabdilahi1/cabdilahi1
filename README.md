@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Cabdilahi</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
@@ -30,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=cabdillahi&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=cabdillahi&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cabdillahi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
@@ -41,4 +40,3 @@
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=cabdillahi&color=blueviolet&style=flat-square)
 </p>
-
