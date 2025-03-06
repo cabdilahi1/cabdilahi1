@@ -29,7 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://streak-stats.demolab.com/?user=cabdillahi&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img width="47%" src="https://streak-stats.demolab.com?user=cabdillahi&theme=dark&border_radius=5" alt="GitHub Streak" />
+  </a>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cabdillahi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
